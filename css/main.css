@@ -19,6 +19,23 @@ background-color: #9f0f0e;
 	left: 0;
   }
   }                                           /* end @media 1280 px */
+  @media (min-width: 1920px) {
+  
+.indexbackground {
+	width: 100%; height: 118%;
+	z-index: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+  }
+.photo24background {
+	width: 100%; height: 130%;
+	z-index: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+  }
+  }                                           /* end @media 1920 px */
 canvas {
 	width: 100%; height: 100%;
 	z-index: 0;
