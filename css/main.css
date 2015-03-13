@@ -37,7 +37,7 @@ background-color: #9f0f0e;
   }
   }                                           /* end @media 1920 px */
 canvas {
-	width: 100%; height: 100%;
+	width: 100%; height: 150%;
 	z-index: 0;
 	position: absolute;
 	top: 0;
