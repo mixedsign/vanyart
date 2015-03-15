@@ -3,6 +3,7 @@
 .indexbackground {
 background-color: #9f0f0e;
 }
+}
 @media (min-width: 1280px) {
 .indexbackground {
 width: 100%; height: 165%;
