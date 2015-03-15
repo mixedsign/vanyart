@@ -14,6 +14,13 @@ position: absolute;
 top: 0;
 left: 0;
 }
+.aboutbackground {
+width: 100%; height: 200%;
+z-index: 0;
+position: absolute;
+top: 0;
+left: 0;
+}
 .photo12background {
 width: 100%; height: 190%;
 z-index: 0;
