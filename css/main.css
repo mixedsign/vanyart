@@ -214,9 +214,10 @@ header {
 .logo {
     margin: 5% auto;
 }
-.navbar-heade {
+.navbar-default {
 background-color: rgba(0, 0, 0, 0.90);
-    opacity:.95;
+opacity:.95;
+border-color: rgba(0, 0, 0, 0.90);
 }
 .navbar .nav .active > a {
     background-color: #9f0f0e;
