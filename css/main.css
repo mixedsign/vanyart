@@ -192,7 +192,8 @@ z-index: 0;
 position: absolute;
 top: 0;
 left: 0;
-} /* end @media 1920 px */                                          /* end @media 1920 px */
+}
+}/* end @media 1920 px */                                          /* end @media 1920 px */
 .wrapper {
     width: 90%;
     margin: 0 auto;
